@@ -10,11 +10,11 @@ The analysis focuses on addressing the following key questions:
 
 **Sales Trends**: How do sales vary by day of the week and hour of the day? Are there peak times for sales activity?
 
-**Monthly Revenue**:*What is the total sales revenue for each month?
+**Monthly Revenue**:What is the total sales revenue for each month?
 
 **Store Performance**: How do sales vary across different store locations?
 
-**Customer Insights****: What is the average price/order per person?
+**Customer Insights**: What is the average price/order per person?
 
 **Product Performance**: Which products are the best-selling in terms of quantity and revenue?
 
