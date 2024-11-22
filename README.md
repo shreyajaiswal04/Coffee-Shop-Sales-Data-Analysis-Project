@@ -1,11 +1,11 @@
-**Coffee-Shop-Sales
+**Coffee-Shop-Sales**
 
-Project Overview**
+**Project Overview**
 
 This project analyzes retail sales data from a coffee shop to gain actionable insights that can enhance its performance. Using the provided sales dataset, we aim to uncover trends and patterns to support data-driven decision-making.
-**
-Objectives
-**
+
+**Objectives**
+
 The analysis focuses on addressing the following key questions:
 
 **Sales Trends**: How do sales vary by day of the week and hour of the day? Are there peak times for sales activity?
@@ -18,24 +18,19 @@ The analysis focuses on addressing the following key questions:
 
 **Product Performance**: Which products are the best-selling in terms of quantity and revenue?
 
-**Category Analysi**s: How do sales vary by product category and type?
+**Category Analysis**: How do sales vary by product category and type?
 
-**Features of the Analysis
-**
+**Features of the Analysis**
+
 **Time-Based Analysis**: Understand daily and hourly sales trends.
-
 **Revenue Breakdown:** Monthly revenue insights.
-
 **Location Analysis**: Comparative performance across store locations.
-
 **Customer Metrics**: Average spending per customer.
-
 **Product Insights:** Identification of top-selling products.
 
 **File Structure**
-**
-project_coffee_shop_sales.xlsx:** The dataset used for the analysis.
 
+**project_coffee_shop_sales.xlsx:** The dataset used for the analysis.
 **Coffee Shop Sales Analysis.pdf:** Detailed problem statement and objectives.
 
 **Tools and Technologies**
