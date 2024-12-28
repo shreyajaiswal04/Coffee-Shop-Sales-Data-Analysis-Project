@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Business-Analysis-Project
+# Coffee-Shop-Sales-Data-Analysis-Project
 ## Project Overview
 This project uses Microsoft Excel to analyze coffee shop sales data, aiming to provide actionable insights to improve business performance. The analysis explores sales patterns across days and hours, identifies monthly revenue trends, compares store locations, and examines customer behavior, including average order values. It also highlights best-selling products and evaluates sales by product category to support strategic decision-making. Through pivot tables, formulas, and charts, the project uncovers trends and patterns crucial for enhancing operations and revenue growth.
 
